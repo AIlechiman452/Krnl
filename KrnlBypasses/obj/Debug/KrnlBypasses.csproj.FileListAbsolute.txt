@@ -1,0 +1,9 @@
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\bin\Debug\KrnlBypasses.exe.config
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\bin\Debug\KrnlBypasses.exe
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\bin\Debug\KrnlBypasses.pdb
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.Form1.resources
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.Properties.Resources.resources
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.csproj.GenerateResource.cache
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.csproj.CoreCompileInputs.cache
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.exe
+C:\Users\imnot\source\repos\KrnlBypasser\KrnlBypasses\obj\Debug\KrnlBypasses.pdb
